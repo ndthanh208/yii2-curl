@@ -2,7 +2,7 @@
 	"name": "ndthanh208/yii2-curl",
 	"description": "A Yii2 cURL library with support of multiple requests in parallel",
 	"keywords": ["yii2", "curl"],
-	"homepage": "https://github.com/pahanini/yii2-curl",
+	"homepage": "https://github.com/ndthanh208/yii2-curl",
 	"type": "yii2-extension",
 	"minimum-stability": "dev",
 	"license": "BSD-3-Clause",
